@@ -1,1 +1,2 @@
-this project is for pl_led blinker .
+this project is for pl_led blinker and written in verilog.
+
